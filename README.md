@@ -1,3 +1,4 @@
+This is Lia from my laptop 
 # IDS2024S
 **IDS2024S, Introduction to Data Science, Spring 2021**   
 **Name:** Lia Persichitte  
