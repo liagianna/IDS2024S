@@ -1,0 +1,7 @@
+3. local, central, distributed  
+4. distributed is the best form of version control because it allows each user to have their own copy of the files and file history.  
+5. a. updates the local repository with content from a remote repository  
+b. shows the status of the working tree and staging area  
+c. files in the current working area are moved to the staging area  
+d. content is committed to a local repository  
+e. transfers from local repository to remote
