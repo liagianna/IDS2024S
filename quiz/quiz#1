@@ -1,0 +1,22 @@
+2. .md means "Markdown Documentation" and we use it to create README files so they can be committed and edited as we work on the file.  
+3. Git does not track empty folders because without content, a file doesn't really exist in the system.  
+4. Not every folder has .git, only original or parent folders will have that address.  
+5. The .git folder helps catagorize your work into different folders and files.  
+6. cd changes repository to home  
+7. ls-a creates a list of all files including hidden files  
+8. pwd shows the current directory  
+9. the staging area is where editing takes place, and it stores the information that will go into your next commit.The working directory is basically the head of your project. The local repository is the open repository that you are specifically working on, which changes will be made and shown on the repository.  
+10. A version control system regulates how changes are made within files and how they appear when accessed by different users.  
+11. 1- distributed vcs allows the same file to be opened by different users 2- can edited by different users 3- each user has their own copy of the project. 4- If the project crashes, it can easily be recovered using the most recently edited copy. 5- each user has a full backup of all the information added by each party 6- each user can track all activity made on the file.  
+12. Local, centralized, and distributed.  
+13. Git is the programming tool used in this class. It is different from github because it utilizes more codes and commands, while github is a more simplified web version for entry-level programming. Github also allows you to see the final look of the file after changes have been committed.  
+14. lists all new or modified files to be committed.  
+15. uploads all commits to github.  
+16. downloads history and incorporates changes.  
+17. markdown is a way to style text on a website.  
+18. putting two astrics or underscores around a text will make it bold.  
+19. putting singular astrics or underscores on each side of the text will italisize it.
+20. vim  
+21. each period represents a parent file, so . is the current file, .. is the previous file, ... is the file before that one and so on.  
+22. 6- the file is not yet a git repository, ls -a does not list the file because there are no contents. 7- to make this an actual repository, you will have to add contents. 8- the vim command allows you to add contents to the file. you can save changes by typing :wq. 9-$ cat README.md This is a README.md file for the test gir project for quiz1. 10- git status.  
+ 
